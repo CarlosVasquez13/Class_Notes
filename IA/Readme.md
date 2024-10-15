@@ -10,3 +10,6 @@ Ejercicios del campus
   - Limpieza de datos
   - Usar regresión líneal
   - 
+
+# Tarea
+Generar un grafico de una matriz de confusión
